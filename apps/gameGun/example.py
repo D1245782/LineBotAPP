@@ -28,7 +28,7 @@ def gameGunExample(event):
                     # 背景圖
                     {
                         "type": "image",
-                        "url": "https://raw.githubusercontent.com/mant0u0/RandomImg/main/gun/ready.png",
+                        "url": "https://github.com/D1245782/LineBotAPP/blob/main/static/images/gameGun/ready.png",
                         "size": "full",
                         "aspectRatio": "1:1",
                         "aspectMode": "cover"
