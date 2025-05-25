@@ -1,0 +1,2 @@
+url = localImg("gamePopUpPirate/set.png")
+print("圖片網址：", url)
