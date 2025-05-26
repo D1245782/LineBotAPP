@@ -122,7 +122,7 @@ def menuExample(event):
                         "contents": [
                             {
                                 "type": "image",
-                                "url": localImg("banner/mant0u.png"),
+                                "url":"https://github.com/D1245782/LineBotAPP/blob/main/static/images/banner/mant0u.png",
                                 "size": "100%",
                                 "aspectMode": "fit",
                                 "margin": "0px",
@@ -231,7 +231,7 @@ def menuDetailExample(event):
                         "contents": [
                             {
                                 "type": "image",
-                                "url": localImg("banner/mant0u.png"),
+                                "url":"https://github.com/D1245782/LineBotAPP/blob/main/static/images/banner/mant0u.png",
                                 "size": "100%",
                                 "aspectMode": "fit",
                                 "margin": "0px",
@@ -327,7 +327,7 @@ def menuDetailExample(event):
                         "contents": [
                             {
                                 "type": "image",
-                                "url": localImg("banner/mant0u.png"),
+                                "url":"https://github.com/D1245782/LineBotAPP/blob/main/static/images/banner/mant0u.png",
                                 "size": "100%",
                                 "aspectMode": "fit",
                                 "margin": "0px",
