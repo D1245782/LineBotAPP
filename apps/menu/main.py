@@ -158,8 +158,8 @@ def menuPageTemplate( pege ):
             "contents": [
                 {
                     "type": "image",
-                    # "url": "https://line-mant0u-bot-vercel.vercel.app/static/images/banner/mant0u.png",
-                    "url": localImg("banner/mant0u.png"),
+                    "url": "https://raw.githubusercontent.com/D1245782/LineBotAPP/main/static/images/banner/mant0u.png",
+                    # "url": localImg("banner/mant0u.png"),
                     "size": "100%",
                     "aspectMode": "fit",
                     "margin": "0px",
