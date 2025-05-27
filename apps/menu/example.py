@@ -27,7 +27,7 @@ def menuExample(event):
                         "contents": [
                             {
                                 "type": "image",
-                                "url":"https://github.com/D1245782/LineBotAPP/blob/main/static/images/banner/mant0u.png",
+                                "url":"https://raw.githubusercontent.com/D1245782/LineBotAPP/main/static/images/banner/mant0u.png",
                                 "size": "100%",
                                 "aspectMode": "fit",
                                 "margin": "0px",
