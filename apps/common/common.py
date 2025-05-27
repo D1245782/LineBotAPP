@@ -20,11 +20,11 @@ line_bot_api = LineBotApi(os.getenv("LINE_CHANNEL_ACCESS_TOKEN"))
 def localImg(path):
     
     # 取得機器人網址
-    bot_url = request.url_root
+    bot_url = request.url_root[:-1]
     # 取得圖片路徑
     img_path = 'images/' + path
     # 取得圖片網址
-    image_url = bot_url + url_for('static', filename = img_path )
+    image_url = bot_url + url_for('static/', filename = img_path )
 
     return image_url
 
