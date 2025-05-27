@@ -31,7 +31,7 @@ def randomPokerExample(event):
                             # 背景 (pageTemplate_BG)
                             {
                                 "type": "image",
-                                "url": "https://raw.githubusercontent.com/mant0u0/RandomImg/main/poker/BG.png",
+                                "url": "https://raw.githubusercontent.com/D1245782/LineBotAPP/blob/main/static/images/banner/poker.png",
                                 "size": "full",
                                 "aspectMode": "cover",
                                 "aspectRatio": "1:1",
@@ -71,7 +71,7 @@ def randomPokerExample(event):
                                 "contents": [
                                     {
                                         "type": "image",
-                                        "url": "https://raw.githubusercontent.com/mant0u0/RandomImg/main/poker/H2.png",
+                                        "url": "https://raw.githubusercontent.com/D1245782/LineBotAPP/blob/main/static/images/randomPoker/H2.png",
                                         "size": "180px"
                                     }
                                 ],
@@ -87,7 +87,7 @@ def randomPokerExample(event):
                                 "contents": [
                                     {
                                         "type": "image",
-                                        "url": "https://raw.githubusercontent.com/mant0u0/RandomImg/main/poker/SA.png",
+                                        "url": "https://raw.githubusercontent.com/D1245782/LineBotAPP/blob/main/static/images/randomPoker/SA.png",
                                         "size": "180px"
                                     }
                                 ],
