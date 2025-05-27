@@ -24,7 +24,7 @@ def localImg(path):
     # 取得圖片路徑
     img_path = 'images/' + path
     # 取得圖片網址
-    image_url = bot_url + url_for('static/', filename = img_path )
+    image_url = bot_url + url_for('static', filename = img_path )
 
     return image_url
 
