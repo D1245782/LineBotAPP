@@ -156,7 +156,7 @@ def getTaiwanYear(text):
 def calculateDays(date_obj):
     if date_obj is not None:
         # 將今天的日期轉換為 UTC+8 時區
-        today = datetime.now(timezone(timedelta(hours=0))).date()
+        today = datetime.now(timezone(timedelta(hours=16))).date()
         date_difference = date_obj.date() - today
 
         if date_difference.days > 0:
